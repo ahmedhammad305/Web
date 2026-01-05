@@ -333,7 +333,7 @@ header.scrolled .hamburger span {
 
         .about-image {
             height: clamp(300px, 40vw, 400px);
-            background-image: url(../about_img_v_-94247.webp);
+            background-image: url(about_img_v_-94247.webp);
             border-radius: 4px;
             position: relative;
             background-repeat: round;
@@ -1422,7 +1422,7 @@ header.scrolled .nav-links a {
     align-items: center;
     justify-content: center;
     position: relative;
-    background-image: url('../imagejpeg.jpeg'); /* ضع رابط صورتك هنا */
+    background-image: url('imagejpeg.jpeg'); /* ضع رابط صورتك هنا */
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* تأثير Parallax بسيط */
